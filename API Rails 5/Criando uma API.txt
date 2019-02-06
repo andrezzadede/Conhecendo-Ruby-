@@ -1,0 +1,16 @@
+Ruby Rails - Criando uma API
+
+rails new nomedAPI --api
+
+CASO for utilizar o Postgresql
+
+--database=postgresql
+
+Dentro da pasta controllers {
+cria uma pasta chamada api{
+dentro de API {pasta chamada v1}
+dentro de v1 {cria um file api_controller.rb}
+}
+}
+
+para configurar o rack cors, ele precisa ser

@@ -1,0 +1,9 @@
+source 'https://rubygems.org'
+
+gem 'os'
+
+gem 'cpf_cnpj', '~> 0.5.0'
+
+# Aqui você coloca as gems que você gostaria de instalar e o source é da onde vou busscar esssas gems
+
+# Para rodar voce entra na pasta e no terminal você roda bundle
